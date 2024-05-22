@@ -1,4 +1,4 @@
-# Getting Started
+# Rely Wallet - Ethereum | Solana | Mina | Cosmos | Bitcoin
 ![rely](https://github.com/hsyndeniz/Rely-Wallet/assets/25802714/2156a4fe-e6bd-4ce7-a5de-eda6ea24f704)
 
 
