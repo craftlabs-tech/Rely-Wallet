@@ -1,0 +1,20 @@
+{
+  "appName": {
+    "full": "React Native Rely",
+    "initials": "RNB"
+  },
+  "next": "Next",
+  "copy": "Copy",
+  "skip": "Skip",
+  "back": "Back",
+  "done": "Done",
+  "continue": "Continue",
+  "cancel": "Cancel",
+  "error": "Error",
+  "success": "Success",
+  "copyToClipboard": "Copy to clipboard",
+  "copiedToClipboard": "Copied to clipboard!",
+  "congratulations": "Congratulations!",
+  "password": "Password",
+  "seedPhrase": "Seed Phrase"
+}

@@ -1,0 +1,45 @@
+{
+  "title": "Rely",
+  "subtitle": "The $t(common:appName.full)",
+  "description": "Vous voulez découvrir des fonctionnalités ? Cliquez sur l'un des trois boutons en bas de l'écran. Le premier vous permet d'appeler une API REST. Le deuxième de changer la couleur du thème. Et le troisième de changer la langue",
+  "agree": "By continuing, you agree to the ",
+  "terms": "Terms of Service and Privacy Policy",
+  "wallet": {
+    "title": "Choose your Wallet Setup",
+    "description": "Start Fresh or Bring an Existing Wallet",
+    "create": "Create Wallet",
+    "import": "Import Wallet"
+  },
+  "import": {
+    "placeholder": "Enter your private key or 12, 15, 18, 21, 24 words seed phrase. \n Separate each word with a single space if you have a seed phrase.",
+    "title": "Import from Seed",
+    "description": "You can import your existing wallet using the private key or a seed phrase.",
+    "tip": "Your credentials are stored locally on your device and never leave it."
+  },
+  "password": {
+    "title": "Password",
+    "create": "Create a Password",
+    "confirm": "Confirm Password",
+    "signInWith": "Sign in with",
+    "hint": "Your password will not be stored anywhere but your device. You will need this password to access your wallet."
+  },
+  "mnemonic": {
+    "title": "Secret Recovery Phrase",
+    "description": "Write down the secret words in order. \n This is the only way to recover your wallet.",
+  },
+  "permissions": {
+    "hint": "Get important Updates and Alerts",
+    "allow": "Allow Notifications",
+    "notNow": "Not Now",
+    "enable": "Enable Notifications"
+  },
+  "biometrics": {
+    "title": "Enable {{biometryType}}",
+    "description": "Enable {{biometryType}} authentication to protect your wallet and quickly access your wallet.",
+  },
+  "getStarted": {
+    "title": "Get Started",
+    "subtitle": "Your Wallet is Ready to Roll",
+    "description": "Get started on your journey by exploring the app."
+  }
+}

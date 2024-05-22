@@ -1,0 +1,6 @@
+{
+  "password": "Password",
+  "unlockWallet": "Unlock Wallet",
+  "signInWith": "Sign in with {{provider}}?",
+  "forgotPassword": "Forgot Password?"
+}
