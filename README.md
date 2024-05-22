@@ -1,3 +1,7 @@
+# Getting Started
+![rely](https://github.com/hsyndeniz/Rely-Wallet/assets/25802714/2156a4fe-e6bd-4ce7-a5de-eda6ea24f704)
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
